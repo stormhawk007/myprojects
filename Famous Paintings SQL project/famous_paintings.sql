@@ -1,5 +1,5 @@
 set sql_safe_updates = 0;
--- All the paintings which are not displayed in any museums
+-- 1.) All the paintings which are not displayed in any museums
 SELECT * 
 FROM work
 WHERE museum_id IS NULL;
