@@ -1,0 +1,1 @@
+This repository contains all the projects done at Great Learning and some others as well. All the folders named as "Project.." contains two main files which are named as "DEV_TRIPATHI.ipynb" and "DEV_TRIPATHI.pdf"
